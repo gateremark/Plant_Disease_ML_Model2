@@ -4,7 +4,7 @@ This repository contains a Python script for building a plant disease detection 
 
 ## Dataset
 
-The dataset used for this project is the [PlantVillage Dataset](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset). It contains images of diseased and healthy plant leaves that can be used for developing machine learning models.
+The dataset used for this project is the [PlantVillage Dataset](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset). It contains over 54,000 images of healthy and diseased plants in ~40 different classes that can be used for developing machine learning models.
 
 ## Usage
 
