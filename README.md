@@ -22,7 +22,7 @@ You can use the get_prediction() function to predict the class of a given image 
 
 ## Credits
 
-The PlantVillage Dataset and the MobileNetV2 pre-trained model in Tensorflow Keras are used for this project. Special thanks to these resources for making this project possible.
+The PlantVillage Dataset and the MobileNetV2 pre-trained model in Tensorflow Keras are used for this project. Special thanks to [Victor Ndaba](https://github.com/ndaba1) for making this project possible.
 
 ## License
 
